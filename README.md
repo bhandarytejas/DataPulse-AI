@@ -1,4 +1,4 @@
-# 🔍 DataPulse AI / 💬 InsightBot
+# 🔍 DataPulse AI 
 
 AI-powered data analysis tool built with Google Gemini and Streamlit.
 
@@ -10,7 +10,7 @@ Built with Google Gemini (free tier), Streamlit, and Python. Features intelligen
 ## ✨ Features
 
 - 🔍 Missing value detection
-- 📊 Outlier identification (Z-score)
+- 📊 Outlier identification
 - 🔄 Duplicate detection
 - 🏷️ Data type validation
 - 📝 Format consistency checks
