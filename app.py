@@ -2,6 +2,7 @@
 DataPulse AI - Automated Data Quality Monitor with AI Explainations
 Built with Streamlit and Google Gemini
 Updated: Jan 2026
+Author: Tejas Bhandari
 """
 
 import streamlit as st
