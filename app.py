@@ -1,5 +1,5 @@
 """
-DataPulse AI - Automated Data Quality Monitor with AI Explainations
+DataPulse AI - Automated Data Quality Monitor with AI Explanations
 Built with Streamlit and Google Gemini
 Updated: Jan 2026
 Author: Tejas Bhandari
