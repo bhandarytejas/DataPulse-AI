@@ -4,7 +4,8 @@ AI-powered data analysis tool built with Google Gemini and Streamlit.
 
 ## 🎯 Overview
 
-[Brief description of what it does]
+AI-powered data analysis assistant that transforms how you explore datasets. Upload any CSV/Excel file and have natural conversations about your data—detect anomalies, uncover patterns, and get actionable recommendations without writing a single query.
+Built with Google Gemini (free tier), Streamlit, and Python. Features intelligent model routing, IQR-based outlier detection, and conversation memory for contextual follow-ups.
 
 ## ✨ Features
 
@@ -18,7 +19,7 @@ AI-powered data analysis tool built with Google Gemini and Streamlit.
 
 ## 🚀 Live Demo
 
-datapulse-ai.streamlit.app
+https://datapulse-ai.streamlit.app
 
 ## 🛠️ Tech Stack
 
