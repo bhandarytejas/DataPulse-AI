@@ -532,7 +532,7 @@ with st.sidebar:
                 
                 **Features:**
                 - 🔍 Missing value detection
-                - 📊 Outlier identification (Z-score)
+                - 📊 Outlier identification
                 - 🔄 Duplicate detection
                 - 🏷️ Data type validation
                 - 📝 Format consistency checks
@@ -856,7 +856,7 @@ else:
     | Check | Description |
     |-------|-------------|
     | **Missing Values** | Identifies gaps in your data with business impact analysis |
-    | **Outliers** | Detects unusual values using statistical methods (Z-score) |
+    | **Outliers** | Detects unusual values using statistical methods |
     | **Duplicates** | Finds duplicate records that could skew your analysis |
     | **Data Types** | Verifies columns are stored in the correct format |
     | **Format Consistency** | Identifies inconsistent formatting (e.g., case variations) |
